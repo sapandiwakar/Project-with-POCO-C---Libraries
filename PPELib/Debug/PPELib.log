@@ -1,0 +1,25 @@
+﻿Build started 27-11-2011 19:11:03.
+     1>Project "c:\Users\hp\documents\visual studio 2010\Projects\PPELib\PPELib\PPELib.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\PPELib.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\PPELib.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../include /I../Foundation\include /I../XML\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Contact.cpp Lot.cpp PPEParser.cpp
+         PPEParser.cpp
+         Lot.cpp
+         Contact.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"c:\users\hp\documents\visual studio 2010\Projects\PPELib\Debug\PPELib.lib" /NOLOGO Debug\Contact.obj
+         Debug\Lot.obj
+         Debug\PPEParser.obj
+         PPELib.vcxproj -> c:\users\hp\documents\visual studio 2010\Projects\PPELib\Debug\PPELib.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\PPELib.unsuccessfulbuild".
+         Touching "Debug\PPELib.lastbuildstate".
+     1>Done Building Project "c:\Users\hp\documents\visual studio 2010\Projects\PPELib\PPELib\PPELib.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.38
